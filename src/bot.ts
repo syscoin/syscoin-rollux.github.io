@@ -70,8 +70,8 @@ export class Bot extends BaseServiceV2<TOptions, TMetrics, TState> {
       const id = uuid.v4()
       try {
         // We'll need this later
-        const owner = 'ethereum-optimism'
-        const repo = 'ethereum-optimism.github.io'
+        const owner = 'syscoin'
+        const repo = 'syscoin-rollux.github.io'
 
         // Compute the HMAC of the request body
         const sig = Buffer.from(req.get('X-Hub-Signature-256') || '', 'utf8')

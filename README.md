@@ -1,6 +1,6 @@
-# Optimism Token List
+# Rollux Token List
 
-The Optimism token list is used as the source of truth for the [Optimism Gateway](https://app.optimism.io/bridge) which is the main portal for moving assets between Layer 1 and Layer 2.
+The Rollux token list is used as the source of truth for the [Rollux Gateway](https://bridge.syscoin.org) which is the main portal for moving assets between Layer 1 and Layer 2.
 
 ## Review process and merge criteria
 
@@ -39,7 +39,7 @@ All PRs are subject to a light-weight final approval, even if not marked as `req
 
 ### Create a folder for your token
 
-Create a folder inside of the [data folder](https://github.com/ethereum-optimism/ethereum-optimism.github.io/tree/master/data) with the same name as the symbol of the token you are trying to add. For example, if you are adding a token with the symbol "ETH" you must create a folder called ETH.
+Create a folder inside of the [data folder](https://github.com/syscoin/syscoin-rollux.github.io/tree/master/data) with the same name as the symbol of the token you are trying to add. For example, if you are adding a token with the symbol "ETH" you must create a folder called ETH.
 
 ### Add a logo to your folder
 
@@ -84,7 +84,7 @@ We currently accept tokens on the following chains:
 
 #### Non-bridgable tokens
 
-If you would like to add your token to this token list but you do not want your token to be included on the Optimism Bridge app, please include the `nobridge` option.
+If you would like to add your token to this token list but you do not want your token to be included on the Rollux Bridge app, please include the `nobridge` option.
 
 ```json
 {
@@ -151,7 +151,7 @@ If you require overrides for specific tokens, you can include the `overrides` fi
 
 ### Create a pull request
 
-Open a [pull request](https://github.com/ethereum-optimism/ethereum-optimism.github.io/pulls) with the changes that you've made. Please only add one token per pull request to simplify the review process. This means two new files inside of one new folder. If you want to add multiple tokens, please open different PRs for each token.
+Open a [pull request](https://github.com/syscoin/syscoin-rollux.github.io/pulls) with the changes that you've made. Please only add one token per pull request to simplify the review process. This means two new files inside of one new folder. If you want to add multiple tokens, please open different PRs for each token.
 
 ### Respond to validation checks
 
@@ -159,4 +159,4 @@ Your pull request will be validated by a series of automated checks. If one of t
 
 ### Wait for the token list to update automatically
 
-Once your PR is merged, the token list will update automatically to include your token. Please do NOT update the token list directly. All token list updates will be handled automatically when PRs are merged into the `master` branch. 
+Once your PR is merged, the token list will update automatically to include your token. Please do NOT update the token list directly. All token list updates will be handled automatically when PRs are merged into the `master` branch.

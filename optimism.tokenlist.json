@@ -1,6 +1,6 @@
 {
   "name": "Optimism",
-  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "logoURI": "https://syscoin-rollux.github.io/optimism.svg",
   "keywords": [
     "scaling",
     "layer2",
@@ -14,7 +14,7 @@
       "name": "0xBitcoin",
       "symbol": "0xBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/0xBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -25,7 +25,7 @@
       "name": "0xBitcoin",
       "symbol": "0xBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/0xBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -36,7 +36,7 @@
       "name": "0xBitcoin",
       "symbol": "0xBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/0xBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -47,7 +47,7 @@
       "name": "0xBitcoin",
       "symbol": "0xBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/0xBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -58,7 +58,7 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/AAVE/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -69,7 +69,7 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/AAVE/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -80,7 +80,7 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/AAVE/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -91,7 +91,7 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/AAVE/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -102,7 +102,7 @@
       "name": "AladdinCRV",
       "symbol": "aCRV",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/aCRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -113,7 +113,7 @@
       "name": "AladdinCRV",
       "symbol": "aCRV",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/aCRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -124,7 +124,7 @@
       "name": "AladdinCRV",
       "symbol": "aCRV",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/aCRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -135,7 +135,7 @@
       "name": "AladdinCRV",
       "symbol": "aCRV",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/aCRV/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -146,7 +146,7 @@
       "name": "Across Protocol Token",
       "symbol": "ACX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/ACX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -157,7 +157,7 @@
       "name": "Across Protocol Token",
       "symbol": "ACX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/ACX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -168,7 +168,7 @@
       "name": "Aelin Protocol",
       "symbol": "AELIN",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/AELIN/logo.png",
       "extensions": {}
     },
     {
@@ -177,7 +177,7 @@
       "name": "Alchemix ETH",
       "symbol": "alETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/alETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -188,7 +188,7 @@
       "name": "Alchemix ETH",
       "symbol": "alETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/alETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -199,7 +199,7 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAL/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -210,7 +210,7 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAL/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -221,7 +221,7 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAL/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -232,7 +232,7 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAL/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -243,7 +243,7 @@
       "name": "Bankless Token",
       "symbol": "BANK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BANK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BANK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -254,7 +254,7 @@
       "name": "Bankless Token",
       "symbol": "BANK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BANK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BANK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -265,7 +265,7 @@
       "name": "BAXagent Coin",
       "symbol": "BAXA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAXA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -276,7 +276,7 @@
       "name": "BAXagent Coin",
       "symbol": "BAXA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAXA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -287,7 +287,7 @@
       "name": "BAXagent Coin",
       "symbol": "BAXA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAXA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -298,7 +298,7 @@
       "name": "BAXagent Coin",
       "symbol": "BAXA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BAXA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -309,7 +309,7 @@
       "name": "BitANT",
       "symbol": "BitANT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitANT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -320,7 +320,7 @@
       "name": "BitANT",
       "symbol": "BitANT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitANT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -331,7 +331,7 @@
       "name": "BitANT",
       "symbol": "BitANT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitANT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -342,7 +342,7 @@
       "name": "BitANT",
       "symbol": "BitANT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitANT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -353,7 +353,7 @@
       "name": "BitBTC",
       "symbol": "BitBTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0xaBA2c5F108F7E820C049D5Af70B16ac266c8f128"
       }
@@ -364,7 +364,7 @@
       "name": "BitBTC",
       "symbol": "BitBTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x158F513096923fF2d3aab2BcF4478536de6725e2"
       }
@@ -375,7 +375,7 @@
       "name": "BitBTC",
       "symbol": "BitBTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x0b651A42F32069d62d5ECf4f2a7e5Bd3E9438746"
       }
@@ -386,7 +386,7 @@
       "name": "BitBTC",
       "symbol": "BitBTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/BitBTC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x0CFb46528a7002a7D8877a5F7a69b9AaF1A9058e"
       }
@@ -397,7 +397,7 @@
       "name": "BOB Token",
       "symbol": "BOB",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOB/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BOB/logo.svg",
       "extensions": {}
     },
     {
@@ -406,7 +406,7 @@
       "name": "BOB Token",
       "symbol": "BOB",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOB/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BOB/logo.svg",
       "extensions": {}
     },
     {
@@ -415,7 +415,7 @@
       "name": "BarnBridge Governance Token",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BOND/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -426,7 +426,7 @@
       "name": "BarnBridge Governance Token",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BOND/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -437,7 +437,7 @@
       "name": "BarnBridge Governance Token",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BOND/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -448,7 +448,7 @@
       "name": "BarnBridge Governance Token",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/BOND/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -459,7 +459,7 @@
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/cbETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -470,7 +470,7 @@
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/cbETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -481,7 +481,7 @@
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/cbETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -492,7 +492,7 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/CRV/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -503,7 +503,7 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/CRV/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -514,7 +514,7 @@
       "name": "Cartesi Token",
       "symbol": "CTSI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/CTSI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -525,7 +525,7 @@
       "name": "Cartesi Token",
       "symbol": "CTSI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/CTSI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -536,7 +536,7 @@
       "name": "Cartesi Token",
       "symbol": "CTSI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/CTSI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -547,7 +547,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x10E6593CDda8c58a1d0f14C5164B376352a55f2F"
       }
@@ -558,7 +558,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
       }
@@ -569,7 +569,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xb415e822C4983ecD6B1c1596e8a5f976cf6CD9e3"
       }
@@ -580,7 +580,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
       }
@@ -591,7 +591,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x05a388Db09C2D44ec0b00Ee188cD42365c42Df23"
       }
@@ -602,7 +602,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
       }
@@ -613,7 +613,7 @@
       "name": "Dentacoin",
       "symbol": "DCN",
       "decimals": 0,
-      "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DCN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -624,7 +624,7 @@
       "name": "Dentacoin",
       "symbol": "DCN",
       "decimals": 0,
-      "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DCN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -635,7 +635,7 @@
       "name": "Dentacoin",
       "symbol": "DCN",
       "decimals": 0,
-      "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DCN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -646,7 +646,7 @@
       "name": "Dentacoin",
       "symbol": "DCN",
       "decimals": 0,
-      "logoURI": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DCN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -657,7 +657,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DF/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -668,7 +668,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DF/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -679,7 +679,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DF/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -690,7 +690,7 @@
       "name": "dForce",
       "symbol": "DF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DF/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -701,7 +701,7 @@
       "name": "dHEDGE DAO Token",
       "symbol": "DHT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DHT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -712,7 +712,7 @@
       "name": "dHEDGE DAO Token",
       "symbol": "DHT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/DHT/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -723,7 +723,7 @@
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/DOLA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -734,7 +734,7 @@
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/DOLA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -745,7 +745,7 @@
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/DOLA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -756,7 +756,7 @@
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/DOLA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -767,7 +767,7 @@
       "name": "Unit protocol",
       "symbol": "DUCK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/DUCK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -778,7 +778,7 @@
       "name": "Unit protocol",
       "symbol": "DUCK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/DUCK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -789,7 +789,7 @@
       "name": "Ethereum Name Service",
       "symbol": "ENS",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/ENS/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -800,7 +800,7 @@
       "name": "Ethereum Name Service",
       "symbol": "ENS",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/ENS/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -811,7 +811,7 @@
       "name": "Equalizer",
       "symbol": "EQZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EQZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -822,7 +822,7 @@
       "name": "Equalizer",
       "symbol": "EQZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EQZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -833,7 +833,7 @@
       "name": "Equalizer",
       "symbol": "EQZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EQZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -844,7 +844,7 @@
       "name": "Equalizer",
       "symbol": "EQZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EQZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -855,7 +855,7 @@
       "name": "Erica Social Token",
       "symbol": "EST",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EST/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -866,7 +866,7 @@
       "name": "Erica Social Token",
       "symbol": "EST",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EST/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -877,7 +877,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -888,7 +888,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -899,7 +899,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -910,7 +910,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -921,7 +921,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -932,7 +932,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/ETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -943,7 +943,7 @@
       "name": "Tether EUR",
       "symbol": "EURT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/EURT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EURT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -954,7 +954,7 @@
       "name": "Tether EUR",
       "symbol": "EURT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/EURT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/EURT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -965,7 +965,7 @@
       "name": "Flashstake",
       "symbol": "FLASH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FLASH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/FLASH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -976,7 +976,7 @@
       "name": "Flashstake",
       "symbol": "FLASH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FLASH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/FLASH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -987,7 +987,7 @@
       "name": "FRAX",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/FRAX/logo.svg",
       "extensions": {}
     },
     {
@@ -996,7 +996,7 @@
       "name": "FRAX",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/FRAX/logo.svg",
       "extensions": {}
     },
     {
@@ -1005,7 +1005,7 @@
       "name": "FXS",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FXS/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/FXS/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1016,7 +1016,7 @@
       "name": "FXS",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/FXS/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/FXS/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1027,7 +1027,7 @@
       "name": "Rigo Token",
       "symbol": "GRG",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/GRG/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1038,7 +1038,7 @@
       "name": "Rigo Token",
       "symbol": "GRG",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/GRG/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1049,7 +1049,7 @@
       "name": "Gitcoin",
       "symbol": "GTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/GTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1060,7 +1060,7 @@
       "name": "Gitcoin",
       "symbol": "GTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/GTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1071,7 +1071,7 @@
       "name": "Gitcoin",
       "symbol": "GTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/GTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1082,7 +1082,7 @@
       "name": "Gitcoin",
       "symbol": "GTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/GTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1093,7 +1093,7 @@
       "name": "Geyser",
       "symbol": "GYSR",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/GYSR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1104,7 +1104,7 @@
       "name": "Geyser",
       "symbol": "GYSR",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/GYSR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1115,7 +1115,7 @@
       "name": "Geyser",
       "symbol": "GYSR",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/GYSR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1126,7 +1126,7 @@
       "name": "Geyser",
       "symbol": "GYSR",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/GYSR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1137,7 +1137,7 @@
       "name": "HanChain",
       "symbol": "HAN",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/HAN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1148,7 +1148,7 @@
       "name": "HanChain",
       "symbol": "HAN",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/HAN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1159,7 +1159,7 @@
       "name": "HanChain",
       "symbol": "HAN",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/HAN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1170,7 +1170,7 @@
       "name": "HanChain",
       "symbol": "HAN",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/HAN/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1181,7 +1181,7 @@
       "name": "Impermax",
       "symbol": "IBEX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/IBEX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/IBEX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1192,7 +1192,7 @@
       "name": "Impermax",
       "symbol": "IBEX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/IBEX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/IBEX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1203,7 +1203,7 @@
       "name": "InsureToken",
       "symbol": "INSURE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/INSURE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1214,7 +1214,7 @@
       "name": "InsureToken",
       "symbol": "INSURE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/INSURE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1225,7 +1225,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KNC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1236,7 +1236,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KNC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1247,7 +1247,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KNC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1258,7 +1258,7 @@
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KNC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1269,7 +1269,7 @@
       "name": "Kromatika",
       "symbol": "KROM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KROM/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1280,7 +1280,7 @@
       "name": "Kromatika",
       "symbol": "KROM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KROM/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1291,7 +1291,7 @@
       "name": "Kromatika",
       "symbol": "KROM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KROM/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1302,7 +1302,7 @@
       "name": "Kromatika",
       "symbol": "KROM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/KROM/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1313,7 +1313,7 @@
       "name": "Land",
       "symbol": "LAND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LAND/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LAND/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1324,7 +1324,7 @@
       "name": "Land",
       "symbol": "LAND",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LAND/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LAND/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1335,7 +1335,7 @@
       "name": "Lido DAO Token",
       "symbol": "LDO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1346,7 +1346,7 @@
       "name": "Lido DAO Token",
       "symbol": "LDO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1357,7 +1357,7 @@
       "name": "TEST Lido DAO Token",
       "symbol": "TESTLDO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1368,7 +1368,7 @@
       "name": "TEST Lido DAO Token",
       "symbol": "TESTLDO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LDO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1379,7 +1379,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1390,7 +1390,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1401,7 +1401,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1412,7 +1412,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1423,7 +1423,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1434,7 +1434,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LINK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1445,7 +1445,7 @@
       "name": "Theranos Coin",
       "symbol": "LIZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LIZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1456,7 +1456,7 @@
       "name": "Theranos Coin",
       "symbol": "LIZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LIZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1467,7 +1467,7 @@
       "name": "Theranos Coin",
       "symbol": "LIZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LIZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1478,7 +1478,7 @@
       "name": "Theranos Coin",
       "symbol": "LIZ",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LIZ/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1489,7 +1489,7 @@
       "name": "Loopfi",
       "symbol": "LPF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LPF/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1500,7 +1500,7 @@
       "name": "Loopfi",
       "symbol": "LPF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LPF/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1511,7 +1511,7 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LRC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LRC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1522,7 +1522,7 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LRC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LRC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1533,7 +1533,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1544,7 +1544,7 @@
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/LUSD/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1555,7 +1555,7 @@
       "name": "Lyra",
       "symbol": "LYRA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LYRA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1566,7 +1566,7 @@
       "name": "Lyra",
       "symbol": "LYRA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/LYRA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1577,7 +1577,7 @@
       "name": "Mask Network",
       "symbol": "MASK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MASK/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MASK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1588,7 +1588,7 @@
       "name": "Mask Network",
       "symbol": "MASK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MASK/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MASK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1599,7 +1599,7 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/MKR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1610,7 +1610,7 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/MKR/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1621,7 +1621,7 @@
       "name": "Mochi",
       "symbol": "MOCHI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOCHI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1632,7 +1632,7 @@
       "name": "Mochi",
       "symbol": "MOCHI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOCHI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1643,7 +1643,7 @@
       "name": "Mochi",
       "symbol": "MOCHI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOCHI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1654,7 +1654,7 @@
       "name": "Mochi",
       "symbol": "MOCHI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOCHI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1665,7 +1665,7 @@
       "name": "Monetum",
       "symbol": "MOM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOM/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1676,7 +1676,7 @@
       "name": "Monetum",
       "symbol": "MOM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOM/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1687,7 +1687,7 @@
       "name": "Monetum",
       "symbol": "MOM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOM/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1698,7 +1698,7 @@
       "name": "Monetum",
       "symbol": "MOM",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/MOM/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1709,7 +1709,7 @@
       "name": "NFTEarth",
       "symbol": "NFTE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/NFTE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1720,7 +1720,7 @@
       "name": "NFTEarth",
       "symbol": "NFTE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/NFTE/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1731,7 +1731,7 @@
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/OP/logo.png",
       "extensions": {}
     },
     {
@@ -1740,7 +1740,7 @@
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/OP/logo.png",
       "extensions": {}
     },
     {
@@ -1749,7 +1749,7 @@
       "name": "OptimismUselessToken-Bridged",
       "symbol": "OUTb",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/OUTb/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1760,7 +1760,7 @@
       "name": "OptimismUselessToken-Bridged",
       "symbol": "OUTb",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/OUTb/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1771,7 +1771,7 @@
       "name": "Paper",
       "symbol": "PAPER",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/PAPER/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1782,7 +1782,7 @@
       "name": "Paper",
       "symbol": "PAPER",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/PAPER/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1793,7 +1793,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1804,7 +1804,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1815,7 +1815,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1826,7 +1826,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1837,7 +1837,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -1848,7 +1848,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1859,7 +1859,7 @@
       "name": "PhunToken",
       "symbol": "PHTK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/PHTK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1870,7 +1870,7 @@
       "name": "PhunToken",
       "symbol": "PHTK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/PHTK/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1881,7 +1881,7 @@
       "name": "PoolTogether",
       "symbol": "POOL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/POOL/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1892,7 +1892,7 @@
       "name": "PoolTogether",
       "symbol": "POOL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/POOL/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1903,7 +1903,7 @@
       "name": "Popcorn",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/POP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1914,7 +1914,7 @@
       "name": "Popcorn",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/POP/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/POP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1925,7 +1925,7 @@
       "name": "Premia",
       "symbol": "PREMIA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/PREMIA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1936,7 +1936,7 @@
       "name": "Premia",
       "symbol": "PREMIA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/PREMIA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1947,7 +1947,7 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -1958,7 +1958,7 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1969,7 +1969,7 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -1980,7 +1980,7 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1991,7 +1991,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/rETH/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2002,7 +2002,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/rETH/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2013,7 +2013,7 @@
       "name": "Respawn Finance Wrapped Staked Ethereum",
       "symbol": "RFWSTETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RFWSTETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2024,7 +2024,7 @@
       "name": "Respawn Finance Wrapped Staked Ethereum",
       "symbol": "RFWSTETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RFWSTETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2035,7 +2035,7 @@
       "name": "Respawn Finance Wrapped Staked Ethereum",
       "symbol": "RFWSTETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RFWSTETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2046,7 +2046,7 @@
       "name": "Respawn Finance Wrapped Staked Ethereum",
       "symbol": "RFWSTETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/RFWSTETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2057,7 +2057,7 @@
       "name": "Rari Governance Token",
       "symbol": "RGT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RGT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/RGT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2068,7 +2068,7 @@
       "name": "Rari Governance Token",
       "symbol": "RGT",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/RGT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/RGT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2079,7 +2079,7 @@
       "name": "Sarcophagus",
       "symbol": "SARCO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SARCO/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SARCO/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2090,7 +2090,7 @@
       "name": "Sarcophagus",
       "symbol": "SARCO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SARCO/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SARCO/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2101,7 +2101,7 @@
       "name": "Synthetic Bitcoin",
       "symbol": "sBTC",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/sBTC/logo.svg",
       "extensions": {}
     },
     {
@@ -2110,7 +2110,7 @@
       "name": "Saddle DAO",
       "symbol": "SDL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SDL/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2121,7 +2121,7 @@
       "name": "Saddle DAO",
       "symbol": "SDL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SDL/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2132,7 +2132,7 @@
       "name": "Saddle DAO",
       "symbol": "SDL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SDL/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2143,7 +2143,7 @@
       "name": "Saddle DAO",
       "symbol": "SDL",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SDL/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2154,7 +2154,7 @@
       "name": "Synthetic Ether",
       "symbol": "sETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/sETH/logo.svg",
       "extensions": {}
     },
     {
@@ -2163,7 +2163,7 @@
       "name": "Synthetic Chainlink",
       "symbol": "sLINK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sLINK/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/sLINK/logo.svg",
       "extensions": {}
     },
     {
@@ -2172,7 +2172,7 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SNX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x39Ea01a0298C315d149a490E34B59Dbf2EC7e48F"
       }
@@ -2183,7 +2183,7 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SNX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x136b1EC699c62b0606854056f02dC7Bb80482d63"
       }
@@ -2194,7 +2194,7 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SNX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc00E7C2Bd7B0Fb95DbBF10d2d336399A939099ee"
       }
@@ -2205,7 +2205,7 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SNX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x5b643DFC67f9701929A0b55f23e0Af61df50E75D"
       }
@@ -2216,7 +2216,7 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SNX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x1427Bc44755d9Aa317535B1feE38922760Aa4e65"
       }
@@ -2227,7 +2227,7 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SNX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xD2b3F0Ea40dB68088415412b0043F37B3088836D"
       }
@@ -2238,7 +2238,7 @@
       "name": "SPANK",
       "symbol": "SPANK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SPANK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2249,7 +2249,7 @@
       "name": "SPANK",
       "symbol": "SPANK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SPANK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2260,7 +2260,7 @@
       "name": "SPANK",
       "symbol": "SPANK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SPANK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2271,7 +2271,7 @@
       "name": "SPANK",
       "symbol": "SPANK",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SPANK/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2282,7 +2282,7 @@
       "name": "Staked Lyra",
       "symbol": "stkLYRA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/stkLYRA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2293,7 +2293,7 @@
       "name": "Staked Lyra",
       "symbol": "stkLYRA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/stkLYRA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2304,7 +2304,7 @@
       "name": "SUKU",
       "symbol": "SUKU",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SUKU/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2315,7 +2315,7 @@
       "name": "SUKU",
       "symbol": "SUKU",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SUKU/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2326,7 +2326,7 @@
       "name": "SUKU",
       "symbol": "SUKU",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SUKU/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2337,7 +2337,7 @@
       "name": "SUKU",
       "symbol": "SUKU",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/SUKU/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2348,7 +2348,7 @@
       "name": "Synthetix USD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/sUSD/logo.svg",
       "extensions": {}
     },
     {
@@ -2357,7 +2357,7 @@
       "name": "Synthetix USD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/sUSD/logo.svg",
       "extensions": {}
     },
     {
@@ -2366,7 +2366,7 @@
       "name": "Synthetix USD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/sUSD/logo.svg",
       "extensions": {}
     },
     {
@@ -2375,7 +2375,7 @@
       "name": "SushiToken",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SUSHI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2386,7 +2386,7 @@
       "name": "SushiToken",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/SUSHI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2397,7 +2397,7 @@
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/THALES/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2408,7 +2408,7 @@
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/THALES/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2419,7 +2419,7 @@
       "name": "TheDAO",
       "symbol": "TheDAO",
       "decimals": 16,
-      "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/TheDAO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2430,7 +2430,7 @@
       "name": "TheDAO",
       "symbol": "TheDAO",
       "decimals": 16,
-      "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/TheDAO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2441,7 +2441,7 @@
       "name": "TheDAO",
       "symbol": "TheDAO",
       "decimals": 16,
-      "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/TheDAO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2452,7 +2452,7 @@
       "name": "TheDAO",
       "symbol": "TheDAO",
       "decimals": 16,
-      "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/TheDAO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2463,7 +2463,7 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TRB/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2474,7 +2474,7 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TRB/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2485,7 +2485,7 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TRB/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2496,7 +2496,7 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TRB/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2507,7 +2507,7 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2518,7 +2518,7 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2529,7 +2529,7 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2540,7 +2540,7 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/TUSD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2551,7 +2551,7 @@
       "name": "Universal Basic Income",
       "symbol": "UBI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/UBI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2562,7 +2562,7 @@
       "name": "Universal Basic Income",
       "symbol": "UBI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/UBI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2573,7 +2573,7 @@
       "name": "Universal Basic Income",
       "symbol": "UBI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/UBI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2584,7 +2584,7 @@
       "name": "Universal Basic Income",
       "symbol": "UBI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/UBI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2595,7 +2595,7 @@
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UMA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2606,7 +2606,7 @@
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UMA/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2617,7 +2617,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2628,7 +2628,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2639,7 +2639,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2650,7 +2650,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UNI/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2661,7 +2661,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2672,7 +2672,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2683,7 +2683,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2694,7 +2694,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2705,7 +2705,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -2716,7 +2716,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDC/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2727,7 +2727,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2738,7 +2738,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2749,7 +2749,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2760,7 +2760,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2771,7 +2771,7 @@
       "name": "USD+",
       "symbol": "USD+",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDplus/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDplus/logo.svg",
       "extensions": {}
     },
     {
@@ -2780,7 +2780,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2791,7 +2791,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2802,7 +2802,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -2813,7 +2813,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2824,7 +2824,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -2835,7 +2835,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/USDT/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2846,7 +2846,7 @@
       "name": "UST (Wormhole)",
       "symbol": "UST",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UST/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2857,7 +2857,7 @@
       "name": "UST (Wormhole)",
       "symbol": "UST",
       "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/UST/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2868,7 +2868,7 @@
       "name": "dForce USD",
       "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/USX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xC5b1EC605738eF73a4EFc562274c1c0b6609cF59"
       }
@@ -2879,7 +2879,7 @@
       "name": "dForce USD",
       "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/USX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xc76cbFbAfD41761279E3EDb23Fd831Ccb74D5D67"
       }
@@ -2890,7 +2890,7 @@
       "name": "dForce USD",
       "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/USX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x40E862341b2416345F02c41Ac70df08525150dC7"
       }
@@ -2901,7 +2901,7 @@
       "name": "dForce USD",
       "symbol": "USX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/USX/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/USX/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0xB4d37826b14Cd3CB7257A2A5094507d701fe715f"
       }
@@ -2912,7 +2912,7 @@
       "name": "Validator",
       "symbol": "VALX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/VALX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2923,7 +2923,7 @@
       "name": "Validator",
       "symbol": "VALX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/VALX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2934,7 +2934,7 @@
       "name": "veKwenta",
       "symbol": "veKWENTA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/veKWENTA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -2945,7 +2945,7 @@
       "name": "veKwenta",
       "symbol": "veKWENTA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/veKWENTA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2956,7 +2956,7 @@
       "name": "veKwenta",
       "symbol": "veKWENTA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/veKWENTA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -2967,7 +2967,7 @@
       "name": "veKwenta",
       "symbol": "veKWENTA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/veKWENTA/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2978,7 +2978,7 @@
       "name": "Velodrome",
       "symbol": "VELO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/VELO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/VELO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -2989,7 +2989,7 @@
       "name": "WardenSwap",
       "symbol": "WAD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/WAD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -3000,7 +3000,7 @@
       "name": "WardenSwap",
       "symbol": "WAD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/WAD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3011,7 +3011,7 @@
       "name": "WardenSwap",
       "symbol": "WAD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/WAD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -3022,7 +3022,7 @@
       "name": "WardenSwap",
       "symbol": "WAD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/WAD/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3033,7 +3033,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -3044,7 +3044,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3055,7 +3055,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x22F24361D548e5FaAfb36d1437839f080363982B"
       }
@@ -3066,7 +3066,7 @@
       "name": "Wrapped BTC L2",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3077,7 +3077,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -3088,7 +3088,7 @@
       "name": "Wrapped BTC L2",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WBTC/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3099,7 +3099,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/WETH/logo.png",
       "extensions": {}
     },
     {
@@ -3108,7 +3108,7 @@
       "name": "WAMP",
       "symbol": "WMP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WMP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x636Af16bf2f682dD3109e60102b8E1A089FedAa8"
       }
@@ -3119,7 +3119,7 @@
       "name": "WAMP",
       "symbol": "WMP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WMP/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3130,7 +3130,7 @@
       "name": "Wootrade Network",
       "symbol": "WOO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WOO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WOO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -3141,7 +3141,7 @@
       "name": "Wootrade Network",
       "symbol": "WOO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/WOO/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/WOO/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3152,7 +3152,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x76943C0D61395d8F2edF9060e1533529cAe05dE6"
       }
@@ -3163,7 +3163,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x8E01013243a96601a86eb3153F0d9Fa4fbFb6957"
       }
@@ -3174,7 +3174,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x65321bf24210b81500230dCEce14Faa70a9f50a7"
       }
@@ -3185,7 +3185,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+      "logoURI": "https://syscoin-rollux.github.io/data/wstETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x2E34e7d705AfaC3C4665b6feF31Aa394A1c81c92"
       }
@@ -3196,7 +3196,7 @@
       "name": "CryptoFranc",
       "symbol": "XCHF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/XCHF/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -3207,7 +3207,7 @@
       "name": "CryptoFranc",
       "symbol": "XCHF",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/XCHF/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -3218,7 +3218,7 @@
       "name": "0x Protocol Token",
       "symbol": "ZRX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/ZRX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
@@ -3229,7 +3229,7 @@
       "name": "0x Protocol Token",
       "symbol": "ZRX",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+      "logoURI": "https://syscoin-rollux.github.io/data/ZRX/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
