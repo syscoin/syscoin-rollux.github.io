@@ -18,12 +18,8 @@ export interface TokenData {
   description: string
   website: string
   tokens: {
-    ethereum?: Token
-    optimism?: Token
-    kovan?: Token
-    'optimism-kovan'?: Token
-    goerli?: Token
-    'optimism-goerli'?: Token
+    tanenbaum?: Token
+    rollux?: Token
   }
 }
 

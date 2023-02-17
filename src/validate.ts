@@ -184,7 +184,7 @@ export const validate = async (
         }
 
         // Check that the Ethereum token exists in the CG token list
-        if (chain === 'ethereum') {
+        if (chain === 'tanenbaum') {
           const found = cg.tokens.find((t) => {
             return t.address.toLowerCase() === token.address.toLowerCase()
           })
@@ -198,7 +198,7 @@ export const validate = async (
           }
         }
 
-        if (chain.startsWith('optimism')) {
+        if (chain.startsWith('rollux')) {
           const factory = new ethers.Contract(
             '0x4200000000000000000000000000000000000012',
             FACTORY_ABI,
@@ -219,18 +219,18 @@ export const validate = async (
         } else {
           // Make sure the token is verified on Etherscan.
           // Etherscan API is heavily rate limited, so sleep for 1s to avoid errors.
+          // @todo re-do this for sys L1
           await sleep(1000)
           const { qResult } = await (
             await fetch(
-              `https://api${
-                chain === 'ethereum' ? '' : `-${chain}`
+              `https://api${chain === 'ethereum' ? '' : `-${chain}`
               }.etherscan.io/api?` +
-                new URLSearchParams({
-                  module: 'contract',
-                  action: 'getsourcecode',
-                  address: token.address,
-                  apikey: process.env.ETHERSCAN_API_KEY,
-                })
+              new URLSearchParams({
+                module: 'contract',
+                action: 'getsourcecode',
+                address: token.address,
+                apikey: process.env.ETHERSCAN_API_KEY,
+              })
             )
           ).json()
 
