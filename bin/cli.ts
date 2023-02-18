@@ -1,10 +1,12 @@
 import fs from 'fs'
 
 import { Command } from 'commander'
+import { glob } from 'glob'
 
 import { generate } from '../src/generate'
 import { validate } from '../src/validate'
 import { version } from '../package.json'
+
 
 const program = new Command()
 
@@ -12,6 +14,33 @@ program
   .name('optl')
   .description('CLI for generating and validating tokenlists')
   .version(version)
+
+program
+  .command('chnetworks')
+  .description('Change networks for all tokens which is under data dir')
+  .requiredOption('--datadir <datadir>', 'Directory containing data files')
+  .action(async (options) => {
+    const items = glob.sync(`${options.datadir}/**/*.json`);
+
+
+    if (items.length > 0) {
+      items.forEach((path: string) => {
+        const contents = JSON.parse(fs.readFileSync(path).toString())
+        const replacementTokens = {
+          tanenbaum: contents.tokens.ethereum || { address: '' },
+          rollux: contents.tokens.optimism || { address: '' },
+        }
+        contents.tokens = replacementTokens;
+
+
+        const newContents = JSON.stringify(contents, null, 4)
+
+        fs.writeFileSync(path, newContents)
+      })
+    }
+
+    process.exit(1)
+  })
 
 program
   .command('validate')

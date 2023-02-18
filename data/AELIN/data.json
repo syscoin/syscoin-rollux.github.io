@@ -1,11 +1,14 @@
 {
-  "name": "Aelin Protocol",
-  "symbol": "AELIN",
-  "decimals": 18,
-  "nobridge": true,
-  "tokens": {
-    "optimism": {
-      "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76"
+    "name": "Aelin Protocol",
+    "symbol": "AELIN",
+    "decimals": 18,
+    "nobridge": true,
+    "tokens": {
+        "tanenbaum": {
+            "address": ""
+        },
+        "rollux": {
+            "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76"
+        }
     }
-  }
 }

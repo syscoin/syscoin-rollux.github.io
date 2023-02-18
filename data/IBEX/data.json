@@ -6,11 +6,11 @@
     "website": "https://impermax.finance",
     "twitter": "@ImpermaxFinance",
     "tokens": {
-      "ethereum": {
-        "address": "0xF655C8567E0f213e6C634CD2A68d992152161dC6"
-      },
-      "optimism": {
-        "address": "0xBB6BBaa0F6D839A00c82B10747aBc3b7E2eEcc82"
-      }
+        "tanenbaum": {
+            "address": "0xF655C8567E0f213e6C634CD2A68d992152161dC6"
+        },
+        "rollux": {
+            "address": "0xBB6BBaa0F6D839A00c82B10747aBc3b7E2eEcc82"
+        }
     }
 }
