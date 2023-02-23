@@ -2,7 +2,7 @@ import { ethers } from 'ethers'
 
 export const NETWORK_DATA = {
   tanenbaum: {
-    id: 1,
+    id: 5700,
     name: 'Tanenbaum',
     provider: new ethers.providers.StaticJsonRpcProvider(
       'https://rpc.tanenbaum.io'
