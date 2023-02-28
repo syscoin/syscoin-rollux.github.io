@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-02-23T23:26:07.921Z",
+  "timestamp": "2023-02-28T21:32:12.820Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -1606,6 +1606,28 @@
     },
     {
       "chainId": 5700,
+      "address": "0xc01062e688a04fE62207123abA54A9e55847ceDe",
+      "name": "Test Token",
+      "symbol": "TEST",
+      "decimals": 18,
+      "logoURI": "https://syscoin-rollux.github.io/data/Test/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x77Cdc3891C91729dc9fdea7000ef78ea331cb34A"
+      }
+    },
+    {
+      "chainId": 57000,
+      "address": "0x0499377aa6d22DAAbFB7A1bBa82Dff01A6798246",
+      "name": "Test Token",
+      "symbol": "TEST",
+      "decimals": 18,
+      "logoURI": "https://syscoin-rollux.github.io/data/Test/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5700,
       "address": "0x8947da500Eb47F82df21143D0C01A29862a8C3c5",
       "name": "Optimistic Thales Token",
       "symbol": "THALES",
@@ -2128,6 +2150,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 16
+    "patch": 17
   }
 }
