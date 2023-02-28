@@ -1,0 +1,13 @@
+{
+    "name": "Test Token",
+    "symbol": "TEST",
+    "decimals": 18,
+    "tokens": {
+        "tanenbaum": {
+            "address": "0xc01062e688a04fE62207123abA54A9e55847ceDe"
+        },
+        "rollux": {
+            "address": "0x0499377aa6d22DAAbFB7A1bBa82Dff01A6798246"
+        }
+    }
+}

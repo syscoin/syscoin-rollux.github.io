@@ -16,7 +16,7 @@ export const NETWORK_DATA = {
     name: 'RolluxTest',
     layer: 2,
     provider: new ethers.providers.StaticJsonRpcProvider(
-      'https://bedrock.rollux.com:9545/'
+      'https://rpc-bedrock.rollux.com/'
     ),
     pair: 'optimism',
     bridge: '0x4200000000000000000000000000000000000010',
