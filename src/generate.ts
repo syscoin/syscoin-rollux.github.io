@@ -10,7 +10,7 @@ import { TokenData } from './types'
 /**
  * Base URL where static assets are hosted.
  */
-const BASE_URL = 'https://syscoin-rollux.github.io'
+const BASE_URL = 'https://syscoin.github.io/syscoin-rollux.github.io'
 
 /**
  * Generates a token list from the data in the data folder.
