@@ -4,10 +4,10 @@
     "decimals": 18,
     "tokens": {
         "tanenbaum": {
-            "address": "0xc01062e688a04fE62207123abA54A9e55847ceDe"
+            "address": "0x87489F058D90677488D34173A60C0912979cb7Ca"
         },
         "rollux": {
-            "address": "0x0499377aa6d22DAAbFB7A1bBa82Dff01A6798246"
+            "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea"
         }
     }
 }
