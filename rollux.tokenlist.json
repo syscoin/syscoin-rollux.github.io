@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-03-01T15:39:24.263Z",
+  "timestamp": "2023-03-01T20:02:38.425Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -1606,7 +1606,7 @@
     },
     {
       "chainId": 5700,
-      "address": "0xc01062e688a04fE62207123abA54A9e55847ceDe",
+      "address": "0x87489F058D90677488D34173A60C0912979cb7Ca",
       "name": "Test Token",
       "symbol": "TEST",
       "decimals": 18,
@@ -1617,7 +1617,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x0499377aa6d22DAAbFB7A1bBa82Dff01A6798246",
+      "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
       "name": "Test Token",
       "symbol": "TEST",
       "decimals": 18,
@@ -2150,6 +2150,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 18
+    "patch": 19
   }
 }
