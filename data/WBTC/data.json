@@ -7,10 +7,10 @@
     "twitter": "@WrappedBTC",
     "tokens": {
         "tanenbaum": {
-            "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+            "address": "0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7"
         },
         "rollux": {
-            "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095"
+            "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904"
         }
     }
 }

@@ -7,10 +7,10 @@
     "twitter": "@Tether_to",
     "tokens": {
         "tanenbaum": {
-            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+            "address": "0x94c80b500C825F3030411a987b7EBb0A8f4adEa0"
         },
         "rollux": {
-            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+            "address": "0x7189ae0d1F60bbb8f26bE96dF1fB97aD5e881FDD"
         }
     }
 }
