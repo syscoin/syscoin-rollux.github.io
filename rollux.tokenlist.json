@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-03-01T20:02:38.425Z",
+  "timestamp": "2023-03-17T02:55:19.516Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -354,7 +354,7 @@
     },
     {
       "chainId": 5700,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "address": "0x2d2e508c8056c3D92745dC2C39E5Cc316de79C0F",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -365,7 +365,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "address": "0x11C7a9EC6D27BbDf6abCef518e259d4E4d429DD6",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -1292,6 +1292,28 @@
     },
     {
       "chainId": 5700,
+      "address": "0x81821498cD456c9f9239010f3A9F755F3A38A778",
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/PSYS/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x77Cdc3891C91729dc9fdea7000ef78ea331cb34A"
+      }
+    },
+    {
+      "chainId": 57000,
+      "address": "0x4DFc340487bbec780bA8458e614b732d7226AE8f",
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/PSYS/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5700,
       "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
       "name": "Rai Reflex Index",
       "symbol": "RAI",
@@ -1782,7 +1804,7 @@
     },
     {
       "chainId": 5700,
-      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "address": "0x510A5D64cCFBd50Ec42Fa400601a0fedf1d452bC",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -1793,7 +1815,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "address": "0x13517674e6f8794973f70B37CcF06676023E69Cc",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -1844,7 +1866,7 @@
     },
     {
       "chainId": 5700,
-      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "address": "0x94c80b500C825F3030411a987b7EBb0A8f4adEa0",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -1855,7 +1877,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "address": "0x7189ae0d1F60bbb8f26bE96dF1fB97aD5e881FDD",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -1998,7 +2020,7 @@
     },
     {
       "chainId": 5700,
-      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "address": "0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -2009,7 +2031,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -2020,7 +2042,7 @@
     },
     {
       "chainId": 5700,
-      "address": "",
+      "address": "0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -2029,7 +2051,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x4200000000000000000000000000000000000006",
+      "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -2104,6 +2126,24 @@
     },
     {
       "chainId": 5700,
+      "address": "0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35",
+      "name": "Wrapped Syscoin",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WSYS/logo.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 57000,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Syscoin",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WSYS/logo.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 5700,
       "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
       "name": "CryptoFranc",
       "symbol": "XCHF",
@@ -2150,6 +2190,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 19
+    "patch": 20
   }
 }
