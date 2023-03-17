@@ -1,6 +1,6 @@
 {
     "name": "Wrapped Syscoin",
-    "symbol": "WETH",
+    "symbol": "WSYS",
     "decimals": 18,
     "nobridge": true,
     "tokens": {
