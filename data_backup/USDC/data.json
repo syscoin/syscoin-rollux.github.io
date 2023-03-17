@@ -1,0 +1,16 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "USDC is a faster, safer, and more efficient way to send, spend, and exchange money around the globe.",
+    "website": "https://www.circle.com/en/usdc",
+    "twitter": "@circlepay",
+    "tokens": {
+        "tanenbaum": {
+            "address": "0x510A5D64cCFBd50Ec42Fa400601a0fedf1d452bC"
+        },
+        "rollux": {
+            "address": "0x13517674e6f8794973f70B37CcF06676023E69Cc"
+        }
+    }
+}

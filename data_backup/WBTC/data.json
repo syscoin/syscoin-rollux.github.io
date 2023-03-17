@@ -1,0 +1,16 @@
+{
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "description": "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token",
+    "website": "https://wbtc.network/",
+    "twitter": "@WrappedBTC",
+    "tokens": {
+        "tanenbaum": {
+            "address": "0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7"
+        },
+        "rollux": {
+            "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904"
+        }
+    }
+}

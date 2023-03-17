@@ -1,0 +1,16 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "Bringing real world currency to the blockchain.",
+    "website": "https://tether.to/",
+    "twitter": "@Tether_to",
+    "tokens": {
+        "tanenbaum": {
+            "address": "0x94c80b500C825F3030411a987b7EBb0A8f4adEa0"
+        },
+        "rollux": {
+            "address": "0x7189ae0d1F60bbb8f26bE96dF1fB97aD5e881FDD"
+        }
+    }
+}

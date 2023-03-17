@@ -1,0 +1,14 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "nobridge": true,
+    "tokens": {
+        "tanenbaum": {
+            "address": "0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9"
+        },
+        "rollux": {
+            "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c"
+        }
+    }
+}

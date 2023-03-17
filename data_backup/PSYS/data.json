@@ -1,0 +1,13 @@
+{
+    "name": "Pegasys",
+    "symbol": "PSYS",
+    "decimals": 18,
+    "tokens": {
+        "tanenbaum": {
+            "address": "0x81821498cD456c9f9239010f3A9F755F3A38A778"
+        },
+        "rollux": {
+            "address": "0x4DFc340487bbec780bA8458e614b732d7226AE8f"
+        }
+    }
+}
