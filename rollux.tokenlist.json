@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-03-17T02:55:19.516Z",
+  "timestamp": "2023-03-17T02:59:38.372Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -2128,7 +2128,7 @@
       "chainId": 5700,
       "address": "0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35",
       "name": "Wrapped Syscoin",
-      "symbol": "WETH",
+      "symbol": "WSYS",
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WSYS/logo.png",
       "extensions": {}
@@ -2137,7 +2137,7 @@
       "chainId": 57000,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Syscoin",
-      "symbol": "WETH",
+      "symbol": "WSYS",
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WSYS/logo.png",
       "extensions": {}
@@ -2190,6 +2190,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 20
+    "patch": 21
   }
 }
