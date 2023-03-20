@@ -10,7 +10,7 @@
             }
         },
         "rollux": {
-            "address": "0xB16bCEd86e1192fdF93452a24616fCf3AdC836DE",
+            "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
             "overrides": {
                 "bridge": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
             }
