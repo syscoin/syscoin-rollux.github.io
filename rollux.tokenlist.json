@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-03-20T13:20:21.521Z",
+  "timestamp": "2023-03-20T18:26:55.542Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -43,7 +43,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x4DFc340487bbec780bA8458e614b732d7226AE8f",
+      "address": "0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235",
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
@@ -180,6 +180,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 26
+    "patch": 27
   }
 }
