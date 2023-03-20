@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-03-17T17:35:32.135Z",
+  "timestamp": "2023-03-20T13:20:21.521Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -21,7 +21,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0xB16bCEd86e1192fdF93452a24616fCf3AdC836DE",
+      "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -43,7 +43,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x0Cb0a51572A2B0c97ba2dFf061fB6bFed662fD40",
+      "address": "0x4DFc340487bbec780bA8458e614b732d7226AE8f",
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
@@ -87,7 +87,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x1c5E66CF03C469eFc6F7090d7f0271BFb142714D",
+      "address": "0x2Be160796F509CC4B1d76fc97494D56CF109C3f1",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -109,7 +109,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0xE62751f52b55fcFae16144f5784c44418fb535D7",
+      "address": "0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
@@ -131,7 +131,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x4150b72A3Ee1ef04eDbBf06Fa96A7Fc17Ca32d4C",
+      "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -151,7 +151,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0xb628e460c2F5d82400Ed299f895395101A21A8C7",
+      "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -180,6 +180,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 25
+    "patch": 26
   }
 }
