@@ -30,7 +30,7 @@
       "standard": "erc721",
       "symbol": "NFT",
       "logoURI": "https://ipfs.io/ipfs/Qmf6a2q8LFQjxufCrdCXzgLgaFPwzhvBD9LxnrcHEsyxpi",
-      "bridgedL2Address": "0xbeEf5444f0298aCfB3F42F2C2651b9430d8248f5"
+      "bridgedTo": "0xbeEf5444f0298aCfB3F42F2C2651b9430d8248f5"
     }
 
     ]
