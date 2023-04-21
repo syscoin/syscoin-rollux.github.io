@@ -1,0 +1,37 @@
+{
+  "name": "Rollux NFT tokenlist",
+  "timestamp": "2023-04-19T18:53:14.364Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "genie",
+    "erc721",
+    "erc1155"
+  ],
+  "tokens": [
+    {
+      "name": "Test NFT",
+      "chainId": 5700,
+      "address": "0xbeEf5444f0298aCfB3F42F2C2651b9430d8248f5",
+      "standard": "erc721",
+      "symbol": "NFT",
+      "logoURI": "https://ipfs.io/ipfs/Qmf6a2q8LFQjxufCrdCXzgLgaFPwzhvBD9LxnrcHEsyxpi",
+      "bridgedTo": "0x9E9fb94678dC146ad4740239e6FA4E0Ef9aB86dd"
+    },
+    {
+      "name": "Test NFT",
+      "chainId": 57000,
+      "address": "0x9E9fb94678dC146ad4740239e6FA4E0Ef9aB86dd",
+      "standard": "erc721",
+      "symbol": "NFT",
+      "logoURI": "https://ipfs.io/ipfs/Qmf6a2q8LFQjxufCrdCXzgLgaFPwzhvBD9LxnrcHEsyxpi",
+      "bridgedL2Address": "0xbeEf5444f0298aCfB3F42F2C2651b9430d8248f5"
+    }
+
+    ]
+}
