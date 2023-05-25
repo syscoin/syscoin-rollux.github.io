@@ -31,6 +31,24 @@
       "symbol": "NFT",
       "logoURI": "https://ipfs.io/ipfs/Qmf6a2q8LFQjxufCrdCXzgLgaFPwzhvBD9LxnrcHEsyxpi",
       "bridgedTo": "0xbeEf5444f0298aCfB3F42F2C2651b9430d8248f5"
+    },
+     {
+      "name": "Test NFT",
+      "chainId": 57,
+      "address": "0x718D859ccdD9ddA7708e18140267a2f420e5DC26",
+      "standard": "erc721",
+      "symbol": "NFT",
+      "logoURI": "https://ipfs.io/ipfs/Qmf6a2q8LFQjxufCrdCXzgLgaFPwzhvBD9LxnrcHEsyxpi",
+      "bridgedTo": "0x1CC4Dde75D51Ca4bc628C3c9EFC3cD12fe39E1ac"
+    },
+    {
+      "name": "Test NFT",
+      "chainId": 570,
+      "address": "0x1CC4Dde75D51Ca4bc628C3c9EFC3cD12fe39E1ac",
+      "standard": "erc721",
+      "symbol": "NFT",
+      "logoURI": "https://ipfs.io/ipfs/Qmf6a2q8LFQjxufCrdCXzgLgaFPwzhvBD9LxnrcHEsyxpi",
+      "bridgedTo": "0x718D859ccdD9ddA7708e18140267a2f420e5DC26"
     }
 
     ]
