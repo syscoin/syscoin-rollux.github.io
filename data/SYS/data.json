@@ -1,0 +1,9 @@
+{
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18,
+    "description": "Syscoin is the native token for Syscoin and Rollux.",
+    "website": "https://syscoin.org/",
+    "twitter": "@Syscoin",
+    "type": "native"
+}
