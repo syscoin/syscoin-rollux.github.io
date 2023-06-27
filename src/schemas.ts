@@ -91,7 +91,7 @@ export const TOKEN_DATA_SCHEMA = {
         {
           type: 'object',
           properties: {
-            "syscoin": TOKEN_SCHEMA,
+            syscoin: TOKEN_SCHEMA,
             rollux: TOKEN_SCHEMA,
             'rollux-tanenbaum': TOKEN_SCHEMA,
           },
@@ -115,6 +115,24 @@ export const TOKEN_DATA_SCHEMA = {
           },
           additionalProperties: false,
           required: ['rollux', 'rollux-tanenbaum'],
+        },
+        {
+          type: 'object',
+          properties: {
+            sycoin: TOKEN_SCHEMA,
+            rollux: TOKEN_SCHEMA,
+          },
+          additionalProperties: false,
+          required: ['syscoin', 'rollux'],
+        },
+        {
+          type: 'object',
+          properties: {
+            'syscoin-tanenbaum': TOKEN_SCHEMA,
+            'rollux-tanenbaum': TOKEN_SCHEMA,
+          },
+          additionalProperties: false,
+          required: ['syscoin-tanenbaum', 'rollux-tanenbaum'],
         },
       ],
     },
