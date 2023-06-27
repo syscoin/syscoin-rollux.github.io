@@ -3,10 +3,10 @@
     "symbol": "TEST",
     "decimals": 18,
     "tokens": {
-        "tanenbaum": {
+        "syscoin-tanenbaum": {
             "address": "0x87489F058D90677488D34173A60C0912979cb7Ca"
         },
-        "rollux": {
+        "rollux-tanenbaum": {
             "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea"
         }
     }
