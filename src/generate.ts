@@ -33,7 +33,7 @@ export const generate = (datadir: string) => {
         `${path.join(datadir, folder)}/logo.{png,svg}`
       )
       const logoext = logofiles[0].endsWith('png') ? 'png' : 'svg'
-      return Object.entries(data.tokens || {}).map(([chain, token]) => {
+      return Object.entries(data.tokens).map(([chain, token]) => {
         const out = {
           chainId: NETWORK_DATA[chain].id,
           address: token.address,

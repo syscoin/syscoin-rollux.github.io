@@ -102,7 +102,7 @@ export const validate = async (
       }
 
       // Validate any standard tokens
-      if (folder !== 'ETH' && data.nonstandard !== true) {
+      if (folder !== 'SYS' && data.nonstandard !== true) {
         const contract = new ethers.Contract(
           token.address,
           TOKEN_ABI,
