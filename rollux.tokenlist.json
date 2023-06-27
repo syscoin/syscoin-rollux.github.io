@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-04-21T08:58:39.696Z",
+  "timestamp": "2023-06-27T22:49:13.094Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -17,6 +17,17 @@
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/DAI/logo.svg",
       "extensions": {
         "rolluxBridgeAddress": "0x10E6593CDda8c58a1d0f14C5164B376352a55f2F"
+      }
+    },
+    {
+      "chainId": 57,
+      "address": "0x5b7f5628814c2e5d31c11d10cfe27c5cbcb174f7",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/DAI/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
       }
     },
     {
@@ -31,6 +42,17 @@
       }
     },
     {
+      "chainId": 570,
+      "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/DAI/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
       "chainId": 5700,
       "address": "0x81821498cD456c9f9239010f3A9F755F3A38A778",
       "name": "Pegasys",
@@ -42,12 +64,78 @@
       }
     },
     {
+      "chainId": 57,
+      "address": "0xE18c200A70908c89fFA18C628fE1B83aC0065EA4",
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/PSYS/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
       "chainId": 57000,
       "address": "0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235",
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/PSYS/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd",
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/PSYS/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5700,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Syscoin",
+      "symbol": "SYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SYS/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x77Cdc3891C91729dc9fdea7000ef78ea331cb34A"
+      }
+    },
+    {
+      "chainId": 57,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Syscoin",
+      "symbol": "SYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SYS/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
+      "chainId": 57000,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Syscoin",
+      "symbol": "SYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SYS/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Syscoin",
+      "symbol": "SYS",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SYS/logo.svg",
       "extensions": {
         "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -86,8 +174,30 @@
       }
     },
     {
+      "chainId": 57,
+      "address": "0x3fca6743e2fb55759fee767f3a68b2c06d699dc4",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/USDC/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
       "chainId": 57000,
       "address": "0x2Be160796F509CC4B1d76fc97494D56CF109C3f1",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/USDC/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -108,6 +218,17 @@
       }
     },
     {
+      "chainId": 57,
+      "address": "0xfe668a3d6f05e7799aae04659fc274ac00d094c0",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/USDT/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
       "chainId": 57000,
       "address": "0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7",
       "name": "Tether USD",
@@ -119,9 +240,20 @@
       }
     },
     {
+      "chainId": 570,
+      "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/USDT/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
       "chainId": 5700,
       "address": "0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7",
-      "name": "Wrapped BTC",
+      "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WBTC/logo.svg",
@@ -130,9 +262,31 @@
       }
     },
     {
+      "chainId": 57,
+      "address": "0x71319ee6f41598412701f0d3e987bb1d74921fb3",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
       "chainId": 57000,
       "address": "0xcDa164cb93979d714CC8B0D3e1ab829E81469649",
-      "name": "Wrapped BTC",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WBTC/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c",
+      "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WBTC/logo.svg",
@@ -143,20 +297,46 @@
     {
       "chainId": 5700,
       "address": "0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9",
-      "name": "Wrapped Ether",
+      "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WETH/logo.png",
-      "extensions": {}
+      "extensions": {
+        "rolluxBridgeAddress": "0x77Cdc3891C91729dc9fdea7000ef78ea331cb34A"
+      }
+    },
+    {
+      "chainId": 57,
+      "address": "0x15dc8168aa893ee5abf46778ae99fd7ed9225914",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WETH/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
     },
     {
       "chainId": 57000,
       "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf",
-      "name": "Wrapped Ether",
+      "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WETH/logo.png",
-      "extensions": {}
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/WETH/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
     }
   ],
   "version": {
