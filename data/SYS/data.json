@@ -1,0 +1,19 @@
+{
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18,
+    "description": "Syscoin is the native token for Syscoin and Rollux.",
+    "website": "https://syscoin.org/",
+    "twitter": "@Syscoin",
+    "tokens": {
+        "syscoin-tanenbaum": {
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "rollux-tanenbaum": {
+            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+        },
+	"rollux": {
+	    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+	}
+    }
+}
