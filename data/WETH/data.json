@@ -4,11 +4,14 @@
     "decimals": 18,
     "nobridge": true,
     "tokens": {
-        "tanenbaum": {
+        "syscoin-tanenbaum": {
             "address": "0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9"
         },
-        "rollux": {
+        "rollux-tanenbaum": {
             "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf"
+        },
+	"rollux": {
+            "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904"
         }
     }
 }

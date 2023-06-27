@@ -6,11 +6,14 @@
     "website": "https://www.circle.com/en/usdc",
     "twitter": "@circlepay",
     "tokens": {
-        "tanenbaum": {
+        "syscoin-tanenbaum": {
             "address": "0x510A5D64cCFBd50Ec42Fa400601a0fedf1d452bC"
         },
-        "rollux": {
+        "rollux-tanenbaum": {
             "address": "0x2Be160796F509CC4B1d76fc97494D56CF109C3f1"
+        },
+        "rollux": {
+            "address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30"
         }
     }
 }

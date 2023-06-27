@@ -6,11 +6,14 @@
     "website": "https://wbtc.network/",
     "twitter": "@WrappedBTC",
     "tokens": {
-        "tanenbaum": {
+        "syscoin-tanenbaum": {
             "address": "0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7"
         },
-        "rollux": {
+        "rollux-tanenbaum": {
             "address": "0xcDa164cb93979d714CC8B0D3e1ab829E81469649"
+        },
+        "rollux": {
+            "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c"
         }
     }
 }

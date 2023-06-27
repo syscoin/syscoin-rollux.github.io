@@ -3,17 +3,20 @@
     "symbol": "DAI",
     "decimals": 18,
     "tokens": {
-        "tanenbaum": {
+        "syscoin-tanenbaum": {
             "address": "0x2d2e508c8056c3D92745dC2C39E5Cc316de79C0F",
             "overrides": {
                 "bridge": "0x10E6593CDda8c58a1d0f14C5164B376352a55f2F"
             }
         },
-        "rollux": {
+        "rollux-tanenbaum": {
             "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
             "overrides": {
                 "bridge": "0x467194771dAe2967Aef3ECbEDD3Bf9a310C76C65"
             }
+        },
+        "rollux": {
+            "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec"
         }
     }
 }
