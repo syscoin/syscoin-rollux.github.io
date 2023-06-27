@@ -1,17 +1,32 @@
 {
-    "name": "Wrapped Ether",
+    "name": "Wrapped Ethereum",
     "symbol": "WETH",
     "decimals": 18,
-    "nobridge": true,
+    "description": "WETH is the tokenized/packaged form of ETH.",
+    "website": "https://www.coingecko.com/en/coins/weth",
     "tokens": {
         "syscoin-tanenbaum": {
             "address": "0xE872a5deBaE33f9E11Fe9fD7C7d43be66d8C90C9"
         },
-        "rollux-tanenbaum": {
-            "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf"
+        "syscoin": {
+            "address": "0x15dc8168aa893ee5abf46778ae99fd7ed9225914",
+            "overrides": {
+                 "name": "Wrapped Ethereum",
+                 "symbol": "WETH"
+            }
         },
-	"rollux": {
-            "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904"
+        "rollux-tanenbaum": {
+            "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf",
+            "overrides": {
+                 "name": "Wrapped Ethereum"
+            }
+        },
+        "rollux": {
+            "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
+            "overrides": {
+                 "name": "Wrapped Ethereum",
+                 "symbol": "WETH"
+            }
         }
     }
 }

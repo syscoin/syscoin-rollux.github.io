@@ -9,11 +9,23 @@
         "syscoin-tanenbaum": {
             "address": "0x94c80b500C825F3030411a987b7EBb0A8f4adEa0"
         },
+        "syscoin": {
+            "address": "0xfe668a3d6f05e7799aae04659fc274ac00d094c0",
+            "overrides": {
+                "name": "Tether USD"
+            }
+        },
         "rollux-tanenbaum": {
-            "address": "0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7"
+            "address": "0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7",
+            "overrides": {
+                "name": "Tether USD"
+            }
         },
         "rollux": {
-            "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c"
+            "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
+            "overrides": {
+                "name": "Tether USD"
+            }
         }
     }
 }

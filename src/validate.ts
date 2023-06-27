@@ -185,7 +185,6 @@ export const validate = async (
 
         // Check that the Syscoin token exists in the Pegasys DEX token list
         if (chain === 'syscoin') {
-          console.log(pgd.tokens)
           const found = pgd.tokens.find((t) => {
             return t.address.toLowerCase() === token.address.toLowerCase()
           })
