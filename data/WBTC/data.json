@@ -9,17 +9,24 @@
         "syscoin-tanenbaum": {
             "address": "0x5f971686Ea09b26d34477cc08092fd2C5AD03Fb7"
         },
+        "syscoin": {
+            "address": "0x71319ee6f41598412701f0d3e987bb1d74921fb3",
+            "overrides": {
+                 "name": "Wrapped Bitcoin",
+                 "symbol": "WBTC"
+            }
+        },
         "rollux-tanenbaum": {
             "address": "0xcDa164cb93979d714CC8B0D3e1ab829E81469649",
             "overrides": {
-                 "name": "WBTC"
+                 "name": "Wrapped Bitcoin"
             }
         },
         "rollux": {
             "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c",
             "overrides": {
-                 "name": "Bitcoin",
-                 "symbol": "BTC"
+                 "name": "Wrapped Bitcoin",
+                 "symbol": "WBTC"
             }
         }
     }

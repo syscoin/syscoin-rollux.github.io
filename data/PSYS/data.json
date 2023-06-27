@@ -2,12 +2,20 @@
     "name": "Pegasys",
     "symbol": "PSYS",
     "decimals": 18,
+    "description": "PSYS is the Pegasys governance token. It can be used to create proposals, and vote on proposals.",
+    "website": "https://pegasys.finance/",
     "tokens": {
         "syscoin-tanenbaum": {
             "address": "0x81821498cD456c9f9239010f3A9F755F3A38A778"
         },
+        "syscoin": {
+            "address": "0xE18c200A70908c89fFA18C628fE1B83aC0065EA4"
+        },
         "rollux-tanenbaum": {
-            "address": "0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235"
+            "address": "0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235",
+            "overrides": {
+                "name": "Pegasys"
+            }
         },
         "rollux": {
             "address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd"
