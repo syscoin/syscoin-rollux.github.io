@@ -22,14 +22,13 @@ Other issues will not immediately cause an error, but will require that a review
 These issues are marked below as "requires manual review".
 
 - Given tokens actually exist on all specified chains (auto-reject)
-- L1 tokens are verified on Etherscan (auto-reject)
+- L1 tokens are verified on Blockscout (auto-reject)
 - Description exists and is under 150 characters (auto-reject)
 - Website exists and loads properly (auto-reject)
 - Token `name`, `symbol`, and `decimals` matches on-chain data (auto-reject)
   - If `overrides` are used (requires manual review)
 - L2 token was deployed by the StandardTokenFactory (requires manual review)
-- Ethereum token listed on the [CoinGecko Token List](https://tokenlists.org/token-list?url=https://tokens.coingecko.com/uniswap/all.json)
-  - *Why CoinGecko? CoinGecko's token list updates every hour which means we get token list updates very quickly. CoinGecko also uses an in-depth [listing criteria](https://www.coingecko.com/en/methodology).*
+- Syscoin token listed on the [Pegasys DEX Token List](https://tokenlists.org/token-list?url=https://raw.githubusercontent.com/Pollum-io/pegasys-tokenlists/master/pegasys.tokenlist.json)
 
 ### Final approval
 
@@ -39,7 +38,7 @@ All PRs are subject to a light-weight final approval, even if not marked as `req
 
 ### Create a folder for your token
 
-Create a folder inside of the [data folder](https://github.com/syscoin/syscoin-rollux.github.io/tree/master/data) with the same name as the symbol of the token you are trying to add. For example, if you are adding a token with the symbol "ETH" you must create a folder called ETH.
+Create a folder inside of the [data folder](https://github.com/syscoin/syscoin-rollux.github.io/tree/master/data) with the same name as the symbol of the token you are trying to add. For example, if you are adding a token with the symbol "SYS" you must create a folder called SYS.
 
 ### Add a logo to your folder
 
@@ -58,16 +57,16 @@ Add a file to your folder called `data.json` with the following format:
   "website": "https://token.com",
   "twitter": "@token",
   "tokens": {
-    "ethereum": {
+    "syscoin-tanenbaum": {
       "address": "0x1234123412341234123412341234123412341234"
     },
-    "optimism": {
+    "syscoin": {
       "address": "0x2345234523452345234523452345234523452345"
     },
-    "goerli": {
+    "rollux-tanenbaum": {
       "address": "0x5678567856785678567856785678567856785678"
     },
-    "optimism-goerli": {
+    "rollux": {
       "address": "0x6789678967896789678967896789678967896789"
     }
   }
@@ -77,10 +76,10 @@ Add a file to your folder called `data.json` with the following format:
 Please include the token addresses for *all* of the below chains where the token you are submitting has been deployed.
 We currently accept tokens on the following chains:
 
-- `ethereum`
-- `optimism`
-- `goerli`
-- `optimism-goerli`
+- `syscoin`
+- `rollux`
+- `syscoin-tanenbaum`
+- `rollux-tanenbaum`
 
 #### Non-bridgable tokens
 
@@ -133,13 +132,13 @@ If you require overrides for specific tokens, you can include the `overrides` fi
   "website": "https://token.com",
   "twitter": "@token",
   "tokens": {
-    "ethereum": {
+    "syscoin": {
       "address": "0x1234123412341234123412341234123412341234",
       "overrides": {
-        "name": "My Ethereum Token"
+        "name": "My Syscoin Token"
       }
     },
-    "optimism": {
+    "rollux": {
       "address": "0x2345234523452345234523452345234523452345",
       "overrides": {
         "bridge": "0x1111111111111111111111111111111111111111"
