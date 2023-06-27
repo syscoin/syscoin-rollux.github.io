@@ -9,8 +9,11 @@
         "syscoin-tanenbaum": {
             "address": "0x0000000000000000000000000000000000000000"
         },
-        "rollur-tanenbaum": {
+        "rollux-tanenbaum": {
             "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
-        }
+        },
+	"rollux": {
+	    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+	}
     }
 }
