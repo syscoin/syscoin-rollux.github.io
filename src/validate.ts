@@ -41,8 +41,8 @@ export const validate = async (
     })
 
   // Load the CoinGecko tokenlist once to avoid additional requests
-  const cgret = await fetch('https://tokens.coingecko.com/uniswap/all.json')
-  const cg = await cgret.json()
+  const pgdret = await fetch('https://raw.githubusercontent.com/Pollum-io/pegasys-tokenlists/master/pegasys.tokenlist.json')
+  const pgd = await pgdret.json()
 
   const results = []
   for (const folder of folders) {
@@ -183,17 +183,18 @@ export const validate = async (
           })
         }
 
-        // Check that the Ethereum token exists in the CG token list
-        if (chain === 'tanenbaum') {
-          const found = cg.tokens.find((t) => {
+        // Check that the Syscoin token exists in the Pegasys DEX token list
+        if (chain === 'syscoin') {
+          console.log(pgd.tokens)
+          const found = pgd.tokens.find((t) => {
             return t.address.toLowerCase() === token.address.toLowerCase()
           })
 
-          // Trigger manual review if the Ethereum token is not in the CG token list
+          // Trigger manual review if the Ethereum token is not in the Pegasys DEX token list
           if (!found) {
             results.push({
               type: 'warning',
-              message: `${folder} on chain ${chain} token ${token.address} not found on CoinGecko token list`,
+              message: `${folder} on chain ${chain} token ${token.address} not found on Pegasys DEX token list`,
             })
           }
         }
@@ -216,29 +217,26 @@ export const validate = async (
               message: `${folder} on chain ${chain} token ${token.address} not created by standard token factory`,
             })
           }
-        } else {
-          // Make sure the token is verified on Etherscan.
-          // Etherscan API is heavily rate limited, so sleep for 1s to avoid errors.
-          // @todo re-do this for sys L1
+        } else if ('syscoin-tanenbaum' !== chain) {
+          // Make sure the token is verified on Blockscout.
+          // Blockscan API is heavily rate limited, so sleep for 1s to avoid errors.
           await sleep(1000)
-          const { qResult } = await (
+          const { result } = await (
             await fetch(
-              `https://api${chain === 'ethereum' ? '' : `-${chain}`
-              }.etherscan.io/api?` +
+              NETWORK_DATA[chain].explorer + '/api?' +
               new URLSearchParams({
                 module: 'contract',
                 action: 'getsourcecode',
-                address: token.address,
-                apikey: process.env.ETHERSCAN_API_KEY,
+                address: token.address
               })
             )
           ).json()
 
           // Trigger review if code not verified on Etherscan
-          if (qResult[0].ABI === 'Contract source code not verified') {
+          if (result[0].ABI === 'Contract source code not verified') {
             results.push({
               type: 'warning',
-              message: `${folder} on chain ${chain} token ${token.address} code not verified on Etherscan`,
+              message: `${folder} on chain ${chain} token ${token.address} code not verified on Blockscout`,
             })
           }
         }
