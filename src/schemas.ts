@@ -119,7 +119,7 @@ export const TOKEN_DATA_SCHEMA = {
         {
           type: 'object',
           properties: {
-            sycoin: TOKEN_SCHEMA,
+            syscoin: TOKEN_SCHEMA,
             rollux: TOKEN_SCHEMA,
           },
           additionalProperties: false,
