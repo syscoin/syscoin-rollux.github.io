@@ -1,0 +1,15 @@
+{
+    "name": "SuperDapp",
+    "symbol": "SUPR",
+    "decimals": 18,
+    "description": "SUPR is the ecosystem token of SuperDapp, the only app you need.",
+    "website": "https://superdapp.ai/",
+    "tokens": {
+        "syscoin": {
+            "address": "0xF209C16c3F079ADd2C7b080A3cd64AAA0D325124"
+        },
+        "rollux": {
+            "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db"
+        }
+    }
+}
