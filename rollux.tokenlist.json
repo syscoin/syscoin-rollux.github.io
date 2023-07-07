@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-07-03T17:49:46.467Z",
+  "timestamp": "2023-07-07T15:42:47.499Z",
   "tokens": [
     {
       "chainId": 5700,
@@ -92,6 +92,28 @@
       "symbol": "PSYS",
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/PSYS/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 57,
+      "address": "0xF209C16c3F079ADd2C7b080A3cd64AAA0D325124",
+      "name": "SuperDapp",
+      "symbol": "SUPR",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SUPR/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
+      "name": "SuperDapp",
+      "symbol": "SUPR",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SUPR/logo.svg",
       "extensions": {
         "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -378,6 +400,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 31
+    "patch": 32
   }
 }
