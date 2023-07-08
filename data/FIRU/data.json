@@ -1,0 +1,15 @@
+{
+    "name": "FIRULAIXCOIN",
+    "symbol": "FIRU",
+    "decimals": 18,
+    "description": "Digital identification and civil registration of animals in the blockchain.",
+    "website": "https://firulaixcoin.finance/",
+    "tokens": {
+        "syscoin": {
+            "address": "0x6FA5c9D07C655bA5937aa5bbef466a29c6d4D5aa"
+        },
+        "rollux": {
+            "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea"
+        }
+    }
+}
