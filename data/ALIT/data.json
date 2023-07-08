@@ -1,0 +1,15 @@
+{
+    "name": "ALINTICOIN",
+    "symbol": "ALIT",
+    "decimals": 18,
+    "description": "WE FINANCE THE FUTURE OF ELECTRICITY FROM THE PHOTOSYNTHESIS OF PLANTS.",
+    "website": "https://alinticoin.green/",
+    "tokens": {
+        "syscoin": {
+            "address": "0x8CfFdee93fAF9c9c813ed37a741dAc537c97d323"
+        },
+        "rollux": {
+            "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2"
+        }
+    }
+}
