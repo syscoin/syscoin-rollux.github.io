@@ -6,8 +6,30 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-07-07T15:42:47.499Z",
+  "timestamp": "2023-07-10T15:59:39.295Z",
   "tokens": [
+    {
+      "chainId": 57,
+      "address": "0x8CfFdee93fAF9c9c813ed37a741dAc537c97d323",
+      "name": "Alinticoin",
+      "symbol": "ALIT",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/ALIT/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+      "name": "Alinticoin",
+      "symbol": "ALIT",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/ALIT/logo.svg",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
     {
       "chainId": 5700,
       "address": "0x2d2e508c8056c3D92745dC2C39E5Cc316de79C0F",
@@ -400,6 +422,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 32
+    "patch": 33
   }
 }
