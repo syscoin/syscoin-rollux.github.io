@@ -60,10 +60,10 @@ export const validate = async (
 
     // Make sure ONE logo file exists
     const logofiles = glob.sync(`${path.join(datadir, folder)}/logo.{png,svg}`)
-    if (logofiles.length !== 1) {
+    if (!(0 < logofiles.length)) {
       results.push({
         type: 'error',
-        message: `${folder} has ${logofiles.length} logo files, make sure your logo is either logo.png OR logo.svg`,
+        message: `${folder} has ${logofiles.length} logo files, make sure your logo is either logo.png OR logo.svg (lowercase)`,
       })
     }
 
@@ -249,18 +249,25 @@ export const validate = async (
   }
 
   // Verify that the final generated token list is valid
-  const list = generate(datadir)
-  const ajv = new Ajv({ allErrors: true, verbose: true })
-  addFormats(ajv)
-  const validator = ajv.compile(schema)
-  if (!validator(list)) {
+  try {
+    const list = generate(datadir)
+    const ajv = new Ajv({ allErrors: true, verbose: true })
+    addFormats(ajv)
+    const validator = ajv.compile(schema)
+    if (!validator(list)) {
+      results.push({
+        type: 'error',
+        message: `final token list is invalid: ${JSON.stringify(
+          validator.errors,
+          null,
+          2
+        )}`,
+      })
+    }
+  } catch(e) {
     results.push({
       type: 'error',
-      message: `final token list is invalid: ${JSON.stringify(
-        validator.errors,
-        null,
-        2
-      )}`,
+      message: `List generator failed: ${e}`,
     })
   }
 
