@@ -4,19 +4,13 @@
     "decimals": 8,
     "description": "BBT is the Memetoken of TuruGlobal team.",
     "website": "https://www.turuverse.com/bbttoken",
-    "twitter": "@BabyTuruNFT"
+    "twitter": "@BabyTuruNFT",
     "tokens": {
         "rollux-tanenbaum": {
-            "address": "0xb38c8d4101607B971d35CCB706446B3F3EDc141D",
-            "overrides": {
-                "name": "BabyTuru",
-                         }
+            "address": "0xb38c8d4101607B971d35CCB706446B3F3EDc141D"
         },
         "rollux": {
-            "address": "0xb38c8d4101607B971d35CCB706446B3F3EDc141D",
-            "overrides": {
-                "name": "BabyTuru"
-            }
+            "address": "0xb38c8d4101607B971d35CCB706446B3F3EDc141D"
         }
     }
 }
