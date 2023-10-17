@@ -1,0 +1,20 @@
+{
+    "name": "SysPunks",
+    "symbol": "ǷƲηϏϛ",
+    "decimals": 0,
+    "description": "The first official NFT collection on Syscoin NEVM. Bringing the OG CryptoPunks to the Golden Stack.",
+    "website": "https://syspunks.org/",
+    "twitter": "@SysPunks",
+    "nonstandard": false,
+    "tokens": {
+        "syscoin": {
+            "address": "0x806AC3D3a9EEbC5c09553b5b406730b6FdBb1B23"
+        },
+        "rollux": {
+            "address": "0x36bD0095142Ee20D7448FC87F071368968FC79ce",
+            "overrides": {
+                "name": "SysPunks"
+            }
+        }
+    }
+}
