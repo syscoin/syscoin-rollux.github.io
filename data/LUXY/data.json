@@ -1,0 +1,21 @@
+{
+    "name": "LuxyToken",
+    "symbol": "LUXY",
+    "decimals": 18,
+    "description": "$LUXY is the official token of the LUXY NFT Marketplace. It offers holders early access to NFT drops, lower fees, and DeFi Staking incentives.",
+    "website": "https://makerdao.com/",
+    "tokens": {
+        "syscoin": {
+            "address": "0x58950D6897BB85b42fe619Cb59F25566070A409A",
+            "overrides": {
+                "name": "LuxyToken"
+            }
+        },
+        "rollux": {
+            "address": "0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86",
+            "overrides": {
+                "name": "LuxyToken"
+            }
+        }
+    }
+}
