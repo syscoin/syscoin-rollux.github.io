@@ -1,22 +1,14 @@
 {
-    "name": "Syscoin",
-    "symbol": "SYS",
+    "name": "SCYETELLAR",
+    "symbol": "SCYLX",
     "decimals": 18,
-    "description": "Syscoin is the native token for Syscoin and Rollux.",
-    "website": "https://syscoin.org/",
-    "twitter": "@Syscoin",
+    "description": "SCYETELLAR , a token created on the Syscoin Rollux Blockchain aims at becoming one of the upcoming solutions in solving problems in the Blockchain ecosystem through its unending resolve for critical innovation, perseverance and versatility",
+    "website": "https://twitter.com/infosytellilabs?t=eaIV6evuUSWWpaJwZYthiQ&s=09",
+    "twitter": "@infosytellilabs",
     "tokens": {
-        "syscoin-tanenbaum": {
-            "address": "0x0000000000000000000000000000000000000000"
-        },
-        "syscoin": {
-            "address": "0x0000000000000000000000000000000000000000"
-        },
-        "rollux-tanenbaum": {
-            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
-        },
+       
         "rollux": {
-            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+            "address": "0xfBbD23C57D294a18560714b2F74baDb23Ef9e350"
         }
     }
 }
