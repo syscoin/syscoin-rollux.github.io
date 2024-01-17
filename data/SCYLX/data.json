@@ -1,1 +1,22 @@
-
+{
+  "name": "Scyetellar",
+  "symbol": "SCYLX",
+  "decimals": 18,
+  "description": "Creation of Sytelli Labs aimed at utilising critical innovation on blockchain",
+  "website": "https://www.scytellar.com",
+  "twitter": "@infosytellilabs",
+  "tokens": {
+    "syscoin-tanenbaum": {
+      "address": "0x1234123412341234123412341234123412341234"
+    },
+    "syscoin": {
+      "address": "0x2345234523452345234523452345234523452345"
+    },
+    "rollux-tanenbaum": {
+      "address": "0x5678567856785678567856785678567856785678"
+    },
+    "rollux": {
+      "address": "0xfBbD23C57D294a18560714b2F74baDb23Ef9e350"
+    }
+  }
+}
