@@ -10,6 +10,12 @@
         },
         "rollux": {
             "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db"
+        },
+        "syscoin-tanenbaum": {
+            "address": "0x52111aDf59FC21eeA0518d19c5f0D1aEFa95AAe9"
+        },
+        "rollux-tanenbaum": {
+            "address": "0x190b2aA820495c0e92840E8FA699741976cd6439"
         }
     }
 }
