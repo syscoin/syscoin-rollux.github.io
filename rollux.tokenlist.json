@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-03-08T21:10:29.466Z",
+  "timestamp": "2024-03-09T15:21:42.370Z",
   "tokens": [
     {
       "chainId": 57,
@@ -197,7 +197,7 @@
     },
     {
       "chainId": 57000,
-      "address": "0x190b2aA820495c0e92840E8FA699741976cd6439",
+      "address": "0x174956bDfbCEb6e53089297cce4fE2825E58d92C",
       "name": "SuperDapp",
       "symbol": "SUPR",
       "decimals": 18,
@@ -488,6 +488,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 39
+    "patch": 40
   }
 }
