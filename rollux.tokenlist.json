@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-03-09T15:21:42.370Z",
+  "timestamp": "2024-03-14T09:01:54.701Z",
   "tokens": [
     {
       "chainId": 57,
@@ -192,7 +192,7 @@
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SUPR/logo.svg",
       "extensions": {
-        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+        "rolluxBridgeAddress": "0x77Cdc3891C91729dc9fdea7000ef78ea331cb34A"
       }
     },
     {
@@ -488,6 +488,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 40
+    "patch": 41
   }
 }
