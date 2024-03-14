@@ -186,18 +186,18 @@
     },
     {
       "chainId": 5700,
-      "address": "0x52111aDf59FC21eeA0518d19c5f0D1aEFa95AAe9",
+      "address": "0xA06f488CF7E8477a7Fc078bA708d280Ab4B13FE4",
       "name": "SuperDapp",
       "symbol": "SUPR",
       "decimals": 18,
       "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SUPR/logo.svg",
       "extensions": {
-        "rolluxBridgeAddress": "0x77Cdc3891C91729dc9fdea7000ef78ea331cb34A"
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
     {
       "chainId": 57000,
-      "address": "0x174956bDfbCEb6e53089297cce4fE2825E58d92C",
+      "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
       "name": "SuperDapp",
       "symbol": "SUPR",
       "decimals": 18,
