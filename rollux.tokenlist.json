@@ -164,7 +164,7 @@
     },
     {
       "chainId": 57,
-      "address": "0xF209C16c3F079ADd2C7b080A3cd64AAA0D325124",
+      "address": "0x9Ce31FF4c2ccFcc2aE8708C0178fC021a86Ac18e",
       "name": "SuperDapp",
       "symbol": "SUPR",
       "decimals": 18,
@@ -175,7 +175,7 @@
     },
     {
       "chainId": 570,
-      "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
+      "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
       "name": "SuperDapp",
       "symbol": "SUPR",
       "decimals": 18,
