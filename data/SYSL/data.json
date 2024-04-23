@@ -1,0 +1,17 @@
+{
+    "name": "SYSLink",
+    "symbol": "SYSL",
+    "decimals": 18,
+    "description": "Decentralized Autonomous Organization (DAO) that strives to provide an array of cutting-edge services, including e-commerce, DeFi staking, and numerous utility features.",
+    "website": "https://syslinkdao.com/",
+    "twitter": "@officialsyslink",
+    "tokens": {
+        "syscoin": {
+            "address": "0x2f09cbA262E39Bd18Dcfdaa1d59C284079Ac4093"
+        },
+        "rollux": {
+            "address": "0x2f09cba262e39bd18dcfdaa1d59c284079ac4093"
+        }
+    }
+}
+
