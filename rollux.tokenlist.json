@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-03-15T20:21:40.944Z",
+  "timestamp": "2024-04-23T15:59:21.004Z",
   "tokens": [
     {
       "chainId": 57,
@@ -251,6 +251,28 @@
       }
     },
     {
+      "chainId": 57,
+      "address": "0x2f09cbA262E39Bd18Dcfdaa1d59C284079Ac4093",
+      "name": "SYSLink",
+      "symbol": "SYSL",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SYSL/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x9cc66f9B7b07F72a487FF751a7cBE281976fce7C"
+      }
+    },
+    {
+      "chainId": 570,
+      "address": "0x2f09cba262e39bd18dcfdaa1d59c284079ac4093",
+      "name": "SYSLink",
+      "symbol": "SYSL",
+      "decimals": 18,
+      "logoURI": "https://syscoin.github.io/syscoin-rollux.github.io/data/SYSL/logo.png",
+      "extensions": {
+        "rolluxBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
       "chainId": 5700,
       "address": "0x87489F058D90677488D34173A60C0912979cb7Ca",
       "name": "Test Token",
@@ -488,6 +510,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 42
+    "patch": 43
   }
 }
