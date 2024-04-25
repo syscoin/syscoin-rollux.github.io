@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-04-23T15:59:21.004Z",
+  "timestamp": "2024-04-25T01:07:37.410Z",
   "tokens": [
     {
       "chainId": 57,
@@ -263,7 +263,7 @@
     },
     {
       "chainId": 570,
-      "address": "0x2f09cba262e39bd18dcfdaa1d59c284079ac4093",
+      "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
       "name": "SYSLink",
       "symbol": "SYSL",
       "decimals": 18,
@@ -510,6 +510,6 @@
   "version": {
     "major": 4,
     "minor": 3,
-    "patch": 43
+    "patch": 44
   }
 }
